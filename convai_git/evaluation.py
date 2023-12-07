@@ -16,7 +16,7 @@ You, {character_name}, are speaking directly to User. Always use first person, d
 
 """
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Your_api_key"
 
 # .........................OLD SCORING_PROPMPT................................
 # SCORING_PROMPT = """You will rate the personality traits of a character given the character interaction with the user. The personality traits are openness, meticulousness, extroversion, agreeableness and sensitivity. You will judge the character response and give a rating ranging from 0 to 4. Below is the detailed semantics of the ratings
